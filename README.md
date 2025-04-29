@@ -75,3 +75,7 @@ This project demonstrates practical data cleaning, modeling, and visualization s
 It offers a complete journey from raw data to a polished Power BI dashboard, making it a strong addition to a data analyst portfolio.
 </p>
 
+## 📸 Dashboard Snapshot
+
+![Typing Odyssey Dashboard](typing_odyssey_dashboard.png)
+
